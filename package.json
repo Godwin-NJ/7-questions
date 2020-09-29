@@ -1,0 +1,19 @@
+{
+  "name": "7-questions",
+  "version": "1.0.0",
+  "description": "A vanilla.JS project which shows a default question and an answer on clicking an icon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Godwin-NJ/question.git"
+  },
+  "author": "godwin-nj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Godwin-NJ/question/issues"
+  },
+  "homepage": "https://github.com/Godwin-NJ/question#readme"
+}
